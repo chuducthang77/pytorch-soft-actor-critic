@@ -5,7 +5,7 @@ from torch.optim import Adam
 from utils import soft_update, hard_update
 from model import GaussianPolicy, QNetwork, DeterministicPolicy
 
-
+from torch.autograd import grad
 class SAC(object):
     def __init__(self, num_inputs, action_space, args):
 
@@ -49,6 +49,9 @@ class SAC(object):
             _, _, action = self.policy.sample(state)
         return action.detach().cpu().numpy()[0]
 
+    def gather_flat_grad(self, loss_grad):
+        return torch.cat([p.view(-1) for p in loss_grad])  # g_vector
+
     def update_parameters(self, memory, batch_size, updates):
         # Sample a batch from memory
         state_batch, action_batch, reward_batch, next_state_batch, mask_batch = memory.sample(batch_size=batch_size)
@@ -70,7 +73,7 @@ class SAC(object):
         qf_loss = qf1_loss + qf2_loss
 
         self.critic_optim.zero_grad()
-        qf_loss.backward()
+        qf_loss.backward(retain_graph=True)
         self.critic_optim.step()
 
         pi, log_pi, _ = self.policy.sample(state_batch)
@@ -81,7 +84,19 @@ class SAC(object):
         policy_loss = ((self.alpha * log_pi) - min_qf_pi).mean() # Jπ = 𝔼st∼D,εt∼N[α * logπ(f(εt;st)|st) − Q(st,f(εt;st))]
 
         self.policy_optim.zero_grad()
-        policy_loss.backward()
+        d_policy_loss_d_phi = grad(policy_loss, self.critic.parameters())
+        flat_d_policy_loss_d_phi = self.gather_flat_grad(d_policy_loss_d_phi)  # 333826
+
+        d_q_loss_d_phi = grad(qf_loss, self.critic.parameters(), create_graph=True)
+        flat_d_q_loss_d_phi = self.gather_flat_grad(d_q_loss_d_phi)  # 333826
+
+        flat_d_q_loss_d_phi.backward(flat_d_policy_loss_d_phi)
+
+        for param in self.policy.parameters():
+            if param.grad != None:
+                param.grad = -param.grad
+
+        # policy_loss.backward()
         self.policy_optim.step()
 
         if self.automatic_entropy_tuning:
