@@ -1,0 +1,3108 @@
+lamb after epoch 0: tensor([2.9000], requires_grad=True)
+w value:  tensor([[0.9603],
+        [0.4364]], requires_grad=True)
+lamb after epoch 1: tensor([2.8286], requires_grad=True)
+w value:  tensor([[0.9842],
+        [0.4466]], requires_grad=True)
+lamb after epoch 2: tensor([2.7698], requires_grad=True)
+w value:  tensor([[1.0021],
+        [0.4542]], requires_grad=True)
+lamb after epoch 3: tensor([2.7187], requires_grad=True)
+w value:  tensor([[1.0173],
+        [0.4606]], requires_grad=True)
+lamb after epoch 4: tensor([2.6726], requires_grad=True)
+w value:  tensor([[1.0308],
+        [0.4664]], requires_grad=True)
+lamb after epoch 5: tensor([2.6304], requires_grad=True)
+w value:  tensor([[1.0434],
+        [0.4717]], requires_grad=True)
+lamb after epoch 6: tensor([2.5911], requires_grad=True)
+w value:  tensor([[1.0552],
+        [0.4766]], requires_grad=True)
+lamb after epoch 7: tensor([2.5542], requires_grad=True)
+w value:  tensor([[1.0664],
+        [0.4814]], requires_grad=True)
+lamb after epoch 8: tensor([2.5193], requires_grad=True)
+w value:  tensor([[1.0771],
+        [0.4859]], requires_grad=True)
+lamb after epoch 9: tensor([2.4860], requires_grad=True)
+w value:  tensor([[1.0875],
+        [0.4902]], requires_grad=True)
+lamb after epoch 10: tensor([2.4541], requires_grad=True)
+w value:  tensor([[1.0976],
+        [0.4944]], requires_grad=True)
+lamb after epoch 11: tensor([2.4234], requires_grad=True)
+w value:  tensor([[1.1074],
+        [0.4985]], requires_grad=True)
+lamb after epoch 12: tensor([2.3938], requires_grad=True)
+w value:  tensor([[1.1171],
+        [0.5025]], requires_grad=True)
+lamb after epoch 13: tensor([2.3652], requires_grad=True)
+w value:  tensor([[1.1265],
+        [0.5065]], requires_grad=True)
+lamb after epoch 14: tensor([2.3375], requires_grad=True)
+w value:  tensor([[1.1358],
+        [0.5103]], requires_grad=True)
+lamb after epoch 15: tensor([2.3105], requires_grad=True)
+w value:  tensor([[1.1449],
+        [0.5141]], requires_grad=True)
+lamb after epoch 16: tensor([2.2843], requires_grad=True)
+w value:  tensor([[1.1540],
+        [0.5179]], requires_grad=True)
+lamb after epoch 17: tensor([2.2586], requires_grad=True)
+w value:  tensor([[1.1629],
+        [0.5215]], requires_grad=True)
+lamb after epoch 18: tensor([2.2336], requires_grad=True)
+w value:  tensor([[1.1718],
+        [0.5252]], requires_grad=True)
+lamb after epoch 19: tensor([2.2091], requires_grad=True)
+w value:  tensor([[1.1806],
+        [0.5288]], requires_grad=True)
+lamb after epoch 20: tensor([2.1852], requires_grad=True)
+w value:  tensor([[1.1893],
+        [0.5324]], requires_grad=True)
+lamb after epoch 21: tensor([2.1617], requires_grad=True)
+w value:  tensor([[1.1979],
+        [0.5360]], requires_grad=True)
+lamb after epoch 22: tensor([2.1386], requires_grad=True)
+w value:  tensor([[1.2066],
+        [0.5395]], requires_grad=True)
+lamb after epoch 23: tensor([2.1160], requires_grad=True)
+w value:  tensor([[1.2151],
+        [0.5430]], requires_grad=True)
+lamb after epoch 24: tensor([2.0937], requires_grad=True)
+w value:  tensor([[1.2237],
+        [0.5465]], requires_grad=True)
+lamb after epoch 25: tensor([2.0718], requires_grad=True)
+w value:  tensor([[1.2322],
+        [0.5500]], requires_grad=True)
+lamb after epoch 26: tensor([2.0502], requires_grad=True)
+w value:  tensor([[1.2407],
+        [0.5535]], requires_grad=True)
+lamb after epoch 27: tensor([2.0289], requires_grad=True)
+w value:  tensor([[1.2492],
+        [0.5569]], requires_grad=True)
+lamb after epoch 28: tensor([2.0080], requires_grad=True)
+w value:  tensor([[1.2577],
+        [0.5604]], requires_grad=True)
+lamb after epoch 29: tensor([1.9873], requires_grad=True)
+w value:  tensor([[1.2661],
+        [0.5638]], requires_grad=True)
+lamb after epoch 30: tensor([1.9669], requires_grad=True)
+w value:  tensor([[1.2746],
+        [0.5672]], requires_grad=True)
+lamb after epoch 31: tensor([1.9468], requires_grad=True)
+w value:  tensor([[1.2831],
+        [0.5706]], requires_grad=True)
+lamb after epoch 32: tensor([1.9269], requires_grad=True)
+w value:  tensor([[1.2916],
+        [0.5741]], requires_grad=True)
+lamb after epoch 33: tensor([1.9072], requires_grad=True)
+w value:  tensor([[1.3000],
+        [0.5775]], requires_grad=True)
+lamb after epoch 34: tensor([1.8878], requires_grad=True)
+w value:  tensor([[1.3085],
+        [0.5809]], requires_grad=True)
+lamb after epoch 35: tensor([1.8686], requires_grad=True)
+w value:  tensor([[1.3171],
+        [0.5843]], requires_grad=True)
+lamb after epoch 36: tensor([1.8496], requires_grad=True)
+w value:  tensor([[1.3256],
+        [0.5877]], requires_grad=True)
+lamb after epoch 37: tensor([1.8307], requires_grad=True)
+w value:  tensor([[1.3341],
+        [0.5912]], requires_grad=True)
+lamb after epoch 38: tensor([1.8121], requires_grad=True)
+w value:  tensor([[1.3427],
+        [0.5946]], requires_grad=True)
+lamb after epoch 39: tensor([1.7937], requires_grad=True)
+w value:  tensor([[1.3512],
+        [0.5980]], requires_grad=True)
+lamb after epoch 40: tensor([1.7754], requires_grad=True)
+w value:  tensor([[1.3598],
+        [0.6014]], requires_grad=True)
+lamb after epoch 41: tensor([1.7573], requires_grad=True)
+w value:  tensor([[1.3685],
+        [0.6049]], requires_grad=True)
+lamb after epoch 42: tensor([1.7393], requires_grad=True)
+w value:  tensor([[1.3772],
+        [0.6083]], requires_grad=True)
+lamb after epoch 43: tensor([1.7215], requires_grad=True)
+w value:  tensor([[1.3859],
+        [0.6118]], requires_grad=True)
+lamb after epoch 44: tensor([1.7039], requires_grad=True)
+w value:  tensor([[1.3946],
+        [0.6152]], requires_grad=True)
+lamb after epoch 45: tensor([1.6864], requires_grad=True)
+w value:  tensor([[1.4034],
+        [0.6187]], requires_grad=True)
+lamb after epoch 46: tensor([1.6690], requires_grad=True)
+w value:  tensor([[1.4122],
+        [0.6222]], requires_grad=True)
+lamb after epoch 47: tensor([1.6518], requires_grad=True)
+w value:  tensor([[1.4211],
+        [0.6257]], requires_grad=True)
+lamb after epoch 48: tensor([1.6347], requires_grad=True)
+w value:  tensor([[1.4300],
+        [0.6292]], requires_grad=True)
+lamb after epoch 49: tensor([1.6177], requires_grad=True)
+w value:  tensor([[1.4389],
+        [0.6327]], requires_grad=True)
+lamb after epoch 50: tensor([1.6009], requires_grad=True)
+w value:  tensor([[1.4479],
+        [0.6362]], requires_grad=True)
+lamb after epoch 51: tensor([1.5841], requires_grad=True)
+w value:  tensor([[1.4569],
+        [0.6397]], requires_grad=True)
+lamb after epoch 52: tensor([1.5675], requires_grad=True)
+w value:  tensor([[1.4660],
+        [0.6432]], requires_grad=True)
+lamb after epoch 53: tensor([1.5510], requires_grad=True)
+w value:  tensor([[1.4751],
+        [0.6468]], requires_grad=True)
+lamb after epoch 54: tensor([1.5346], requires_grad=True)
+w value:  tensor([[1.4843],
+        [0.6504]], requires_grad=True)
+lamb after epoch 55: tensor([1.5183], requires_grad=True)
+w value:  tensor([[1.4936],
+        [0.6539]], requires_grad=True)
+lamb after epoch 56: tensor([1.5022], requires_grad=True)
+w value:  tensor([[1.5029],
+        [0.6575]], requires_grad=True)
+lamb after epoch 57: tensor([1.4861], requires_grad=True)
+w value:  tensor([[1.5122],
+        [0.6611]], requires_grad=True)
+lamb after epoch 58: tensor([1.4701], requires_grad=True)
+w value:  tensor([[1.5216],
+        [0.6648]], requires_grad=True)
+lamb after epoch 59: tensor([1.4542], requires_grad=True)
+w value:  tensor([[1.5311],
+        [0.6684]], requires_grad=True)
+lamb after epoch 60: tensor([1.4384], requires_grad=True)
+w value:  tensor([[1.5406],
+        [0.6721]], requires_grad=True)
+lamb after epoch 61: tensor([1.4227], requires_grad=True)
+w value:  tensor([[1.5502],
+        [0.6757]], requires_grad=True)
+lamb after epoch 62: tensor([1.4071], requires_grad=True)
+w value:  tensor([[1.5599],
+        [0.6794]], requires_grad=True)
+lamb after epoch 63: tensor([1.3916], requires_grad=True)
+w value:  tensor([[1.5696],
+        [0.6831]], requires_grad=True)
+lamb after epoch 64: tensor([1.3762], requires_grad=True)
+w value:  tensor([[1.5794],
+        [0.6868]], requires_grad=True)
+lamb after epoch 65: tensor([1.3608], requires_grad=True)
+w value:  tensor([[1.5893],
+        [0.6906]], requires_grad=True)
+lamb after epoch 66: tensor([1.3455], requires_grad=True)
+w value:  tensor([[1.5992],
+        [0.6944]], requires_grad=True)
+lamb after epoch 67: tensor([1.3304], requires_grad=True)
+w value:  tensor([[1.6092],
+        [0.6981]], requires_grad=True)
+lamb after epoch 68: tensor([1.3152], requires_grad=True)
+w value:  tensor([[1.6193],
+        [0.7019]], requires_grad=True)
+lamb after epoch 69: tensor([1.3002], requires_grad=True)
+w value:  tensor([[1.6294],
+        [0.7057]], requires_grad=True)
+lamb after epoch 70: tensor([1.2853], requires_grad=True)
+w value:  tensor([[1.6397],
+        [0.7096]], requires_grad=True)
+lamb after epoch 71: tensor([1.2704], requires_grad=True)
+w value:  tensor([[1.6500],
+        [0.7134]], requires_grad=True)
+lamb after epoch 72: tensor([1.2556], requires_grad=True)
+w value:  tensor([[1.6604],
+        [0.7173]], requires_grad=True)
+lamb after epoch 73: tensor([1.2408], requires_grad=True)
+w value:  tensor([[1.6708],
+        [0.7212]], requires_grad=True)
+lamb after epoch 74: tensor([1.2262], requires_grad=True)
+w value:  tensor([[1.6814],
+        [0.7251]], requires_grad=True)
+lamb after epoch 75: tensor([1.2116], requires_grad=True)
+w value:  tensor([[1.6920],
+        [0.7290]], requires_grad=True)
+lamb after epoch 76: tensor([1.1970], requires_grad=True)
+w value:  tensor([[1.7027],
+        [0.7330]], requires_grad=True)
+lamb after epoch 77: tensor([1.1826], requires_grad=True)
+w value:  tensor([[1.7135],
+        [0.7369]], requires_grad=True)
+lamb after epoch 78: tensor([1.1682], requires_grad=True)
+w value:  tensor([[1.7244],
+        [0.7410]], requires_grad=True)
+lamb after epoch 79: tensor([1.1539], requires_grad=True)
+w value:  tensor([[1.7354],
+        [0.7450]], requires_grad=True)
+lamb after epoch 80: tensor([1.1396], requires_grad=True)
+w value:  tensor([[1.7464],
+        [0.7490]], requires_grad=True)
+lamb after epoch 81: tensor([1.1254], requires_grad=True)
+w value:  tensor([[1.7576],
+        [0.7531]], requires_grad=True)
+lamb after epoch 82: tensor([1.1113], requires_grad=True)
+w value:  tensor([[1.7689],
+        [0.7572]], requires_grad=True)
+lamb after epoch 83: tensor([1.0972], requires_grad=True)
+w value:  tensor([[1.7802],
+        [0.7612]], requires_grad=True)
+lamb after epoch 84: tensor([1.0832], requires_grad=True)
+w value:  tensor([[1.7917],
+        [0.7654]], requires_grad=True)
+lamb after epoch 85: tensor([1.0693], requires_grad=True)
+w value:  tensor([[1.8032],
+        [0.7695]], requires_grad=True)
+lamb after epoch 86: tensor([1.0554], requires_grad=True)
+w value:  tensor([[1.8149],
+        [0.7737]], requires_grad=True)
+lamb after epoch 87: tensor([1.0416], requires_grad=True)
+w value:  tensor([[1.8266],
+        [0.7779]], requires_grad=True)
+lamb after epoch 88: tensor([1.0278], requires_grad=True)
+w value:  tensor([[1.8385],
+        [0.7821]], requires_grad=True)
+lamb after epoch 89: tensor([1.0141], requires_grad=True)
+w value:  tensor([[1.8504],
+        [0.7863]], requires_grad=True)
+lamb after epoch 90: tensor([1.0005], requires_grad=True)
+w value:  tensor([[1.8625],
+        [0.7906]], requires_grad=True)
+lamb after epoch 91: tensor([0.9869], requires_grad=True)
+w value:  tensor([[1.8746],
+        [0.7949]], requires_grad=True)
+lamb after epoch 92: tensor([0.9734], requires_grad=True)
+w value:  tensor([[1.8869],
+        [0.7992]], requires_grad=True)
+lamb after epoch 93: tensor([0.9599], requires_grad=True)
+w value:  tensor([[1.8993],
+        [0.8035]], requires_grad=True)
+lamb after epoch 94: tensor([0.9465], requires_grad=True)
+w value:  tensor([[1.9117],
+        [0.8079]], requires_grad=True)
+lamb after epoch 95: tensor([0.9332], requires_grad=True)
+w value:  tensor([[1.9243],
+        [0.8123]], requires_grad=True)
+lamb after epoch 96: tensor([0.9199], requires_grad=True)
+w value:  tensor([[1.9371],
+        [0.8166]], requires_grad=True)
+lamb after epoch 97: tensor([0.9067], requires_grad=True)
+w value:  tensor([[1.9499],
+        [0.8211]], requires_grad=True)
+lamb after epoch 98: tensor([0.8935], requires_grad=True)
+w value:  tensor([[1.9628],
+        [0.8255]], requires_grad=True)
+lamb after epoch 99: tensor([0.8804], requires_grad=True)
+w value:  tensor([[1.9759],
+        [0.8300]], requires_grad=True)
+lamb after epoch 100: tensor([0.8674], requires_grad=True)
+w value:  tensor([[1.9891],
+        [0.8345]], requires_grad=True)
+lamb after epoch 101: tensor([0.8544], requires_grad=True)
+w value:  tensor([[2.0024],
+        [0.8390]], requires_grad=True)
+lamb after epoch 102: tensor([0.8414], requires_grad=True)
+w value:  tensor([[2.0158],
+        [0.8435]], requires_grad=True)
+lamb after epoch 103: tensor([0.8286], requires_grad=True)
+w value:  tensor([[2.0294],
+        [0.8481]], requires_grad=True)
+lamb after epoch 104: tensor([0.8157], requires_grad=True)
+w value:  tensor([[2.0430],
+        [0.8526]], requires_grad=True)
+lamb after epoch 105: tensor([0.8030], requires_grad=True)
+w value:  tensor([[2.0568],
+        [0.8572]], requires_grad=True)
+lamb after epoch 106: tensor([0.7903], requires_grad=True)
+w value:  tensor([[2.0707],
+        [0.8618]], requires_grad=True)
+lamb after epoch 107: tensor([0.7776], requires_grad=True)
+w value:  tensor([[2.0847],
+        [0.8665]], requires_grad=True)
+lamb after epoch 108: tensor([0.7650], requires_grad=True)
+w value:  tensor([[2.0989],
+        [0.8711]], requires_grad=True)
+lamb after epoch 109: tensor([0.7525], requires_grad=True)
+w value:  tensor([[2.1133],
+        [0.8758]], requires_grad=True)
+lamb after epoch 110: tensor([0.7401], requires_grad=True)
+w value:  tensor([[2.1277],
+        [0.8805]], requires_grad=True)
+lamb after epoch 111: tensor([0.7277], requires_grad=True)
+w value:  tensor([[2.1423],
+        [0.8852]], requires_grad=True)
+lamb after epoch 112: tensor([0.7153], requires_grad=True)
+w value:  tensor([[2.1570],
+        [0.8899]], requires_grad=True)
+lamb after epoch 113: tensor([0.7030], requires_grad=True)
+w value:  tensor([[2.1718],
+        [0.8947]], requires_grad=True)
+lamb after epoch 114: tensor([0.6908], requires_grad=True)
+w value:  tensor([[2.1868],
+        [0.8994]], requires_grad=True)
+lamb after epoch 115: tensor([0.6787], requires_grad=True)
+w value:  tensor([[2.2019],
+        [0.9042]], requires_grad=True)
+lamb after epoch 116: tensor([0.6666], requires_grad=True)
+w value:  tensor([[2.2171],
+        [0.9090]], requires_grad=True)
+lamb after epoch 117: tensor([0.6545], requires_grad=True)
+w value:  tensor([[2.2325],
+        [0.9138]], requires_grad=True)
+lamb after epoch 118: tensor([0.6426], requires_grad=True)
+w value:  tensor([[2.2480],
+        [0.9187]], requires_grad=True)
+lamb after epoch 119: tensor([0.6306], requires_grad=True)
+w value:  tensor([[2.2637],
+        [0.9235]], requires_grad=True)
+lamb after epoch 120: tensor([0.6188], requires_grad=True)
+w value:  tensor([[2.2795],
+        [0.9284]], requires_grad=True)
+lamb after epoch 121: tensor([0.6070], requires_grad=True)
+w value:  tensor([[2.2954],
+        [0.9332]], requires_grad=True)
+lamb after epoch 122: tensor([0.5953], requires_grad=True)
+w value:  tensor([[2.3115],
+        [0.9381]], requires_grad=True)
+lamb after epoch 123: tensor([0.5837], requires_grad=True)
+w value:  tensor([[2.3277],
+        [0.9430]], requires_grad=True)
+lamb after epoch 124: tensor([0.5721], requires_grad=True)
+w value:  tensor([[2.3441],
+        [0.9479]], requires_grad=True)
+lamb after epoch 125: tensor([0.5606], requires_grad=True)
+w value:  tensor([[2.3606],
+        [0.9527]], requires_grad=True)
+lamb after epoch 126: tensor([0.5492], requires_grad=True)
+w value:  tensor([[2.3772],
+        [0.9577]], requires_grad=True)
+lamb after epoch 127: tensor([0.5378], requires_grad=True)
+w value:  tensor([[2.3940],
+        [0.9626]], requires_grad=True)
+lamb after epoch 128: tensor([0.5265], requires_grad=True)
+w value:  tensor([[2.4109],
+        [0.9675]], requires_grad=True)
+lamb after epoch 129: tensor([0.5153], requires_grad=True)
+w value:  tensor([[2.4280],
+        [0.9724]], requires_grad=True)
+lamb after epoch 130: tensor([0.5041], requires_grad=True)
+w value:  tensor([[2.4452],
+        [0.9773]], requires_grad=True)
+lamb after epoch 131: tensor([0.4930], requires_grad=True)
+w value:  tensor([[2.4625],
+        [0.9822]], requires_grad=True)
+lamb after epoch 132: tensor([0.4820], requires_grad=True)
+w value:  tensor([[2.4800],
+        [0.9871]], requires_grad=True)
+lamb after epoch 133: tensor([0.4711], requires_grad=True)
+w value:  tensor([[2.4976],
+        [0.9920]], requires_grad=True)
+lamb after epoch 134: tensor([0.4603], requires_grad=True)
+w value:  tensor([[2.5154],
+        [0.9969]], requires_grad=True)
+lamb after epoch 135: tensor([0.4495], requires_grad=True)
+w value:  tensor([[2.5333],
+        [1.0018]], requires_grad=True)
+lamb after epoch 136: tensor([0.4388], requires_grad=True)
+w value:  tensor([[2.5513],
+        [1.0067]], requires_grad=True)
+lamb after epoch 137: tensor([0.4282], requires_grad=True)
+w value:  tensor([[2.5694],
+        [1.0116]], requires_grad=True)
+lamb after epoch 138: tensor([0.4177], requires_grad=True)
+w value:  tensor([[2.5877],
+        [1.0165]], requires_grad=True)
+lamb after epoch 139: tensor([0.4072], requires_grad=True)
+w value:  tensor([[2.6061],
+        [1.0213]], requires_grad=True)
+lamb after epoch 140: tensor([0.3969], requires_grad=True)
+w value:  tensor([[2.6246],
+        [1.0261]], requires_grad=True)
+lamb after epoch 141: tensor([0.3866], requires_grad=True)
+w value:  tensor([[2.6433],
+        [1.0309]], requires_grad=True)
+lamb after epoch 142: tensor([0.3764], requires_grad=True)
+w value:  tensor([[2.6620],
+        [1.0357]], requires_grad=True)
+lamb after epoch 143: tensor([0.3663], requires_grad=True)
+w value:  tensor([[2.6809],
+        [1.0405]], requires_grad=True)
+lamb after epoch 144: tensor([0.3563], requires_grad=True)
+w value:  tensor([[2.6999],
+        [1.0453]], requires_grad=True)
+lamb after epoch 145: tensor([0.3464], requires_grad=True)
+w value:  tensor([[2.7190],
+        [1.0500]], requires_grad=True)
+lamb after epoch 146: tensor([0.3366], requires_grad=True)
+w value:  tensor([[2.7382],
+        [1.0546]], requires_grad=True)
+lamb after epoch 147: tensor([0.3268], requires_grad=True)
+w value:  tensor([[2.7575],
+        [1.0593]], requires_grad=True)
+lamb after epoch 148: tensor([0.3172], requires_grad=True)
+w value:  tensor([[2.7769],
+        [1.0639]], requires_grad=True)
+lamb after epoch 149: tensor([0.3077], requires_grad=True)
+w value:  tensor([[2.7965],
+        [1.0685]], requires_grad=True)
+lamb after epoch 150: tensor([0.2982], requires_grad=True)
+w value:  tensor([[2.8160],
+        [1.0730]], requires_grad=True)
+lamb after epoch 151: tensor([0.2889], requires_grad=True)
+w value:  tensor([[2.8357],
+        [1.0775]], requires_grad=True)
+lamb after epoch 152: tensor([0.2796], requires_grad=True)
+w value:  tensor([[2.8555],
+        [1.0819]], requires_grad=True)
+lamb after epoch 153: tensor([0.2705], requires_grad=True)
+w value:  tensor([[2.8752],
+        [1.0863]], requires_grad=True)
+lamb after epoch 154: tensor([0.2615], requires_grad=True)
+w value:  tensor([[2.8952],
+        [1.0907]], requires_grad=True)
+lamb after epoch 155: tensor([0.2526], requires_grad=True)
+w value:  tensor([[2.9151],
+        [1.0950]], requires_grad=True)
+lamb after epoch 156: tensor([0.2437], requires_grad=True)
+w value:  tensor([[2.9351],
+        [1.0992]], requires_grad=True)
+lamb after epoch 157: tensor([0.2350], requires_grad=True)
+w value:  tensor([[2.9552],
+        [1.1034]], requires_grad=True)
+lamb after epoch 158: tensor([0.2264], requires_grad=True)
+w value:  tensor([[2.9753],
+        [1.1075]], requires_grad=True)
+lamb after epoch 159: tensor([0.2179], requires_grad=True)
+w value:  tensor([[2.9954],
+        [1.1116]], requires_grad=True)
+lamb after epoch 160: tensor([0.2096], requires_grad=True)
+w value:  tensor([[3.0155],
+        [1.1155]], requires_grad=True)
+lamb after epoch 161: tensor([0.2013], requires_grad=True)
+w value:  tensor([[3.0357],
+        [1.1195]], requires_grad=True)
+lamb after epoch 162: tensor([0.1932], requires_grad=True)
+w value:  tensor([[3.0558],
+        [1.1233]], requires_grad=True)
+lamb after epoch 163: tensor([0.1852], requires_grad=True)
+w value:  tensor([[3.0760],
+        [1.1271]], requires_grad=True)
+lamb after epoch 164: tensor([0.1772], requires_grad=True)
+w value:  tensor([[3.0961],
+        [1.1308]], requires_grad=True)
+lamb after epoch 165: tensor([0.1695], requires_grad=True)
+w value:  tensor([[3.1163],
+        [1.1344]], requires_grad=True)
+lamb after epoch 166: tensor([0.1618], requires_grad=True)
+w value:  tensor([[3.1364],
+        [1.1379]], requires_grad=True)
+lamb after epoch 167: tensor([0.1543], requires_grad=True)
+w value:  tensor([[3.1564],
+        [1.1414]], requires_grad=True)
+lamb after epoch 168: tensor([0.1468], requires_grad=True)
+w value:  tensor([[3.1764],
+        [1.1447]], requires_grad=True)
+lamb after epoch 169: tensor([0.1395], requires_grad=True)
+w value:  tensor([[3.1964],
+        [1.1480]], requires_grad=True)
+lamb after epoch 170: tensor([0.1324], requires_grad=True)
+w value:  tensor([[3.2162],
+        [1.1512]], requires_grad=True)
+lamb after epoch 171: tensor([0.1253], requires_grad=True)
+w value:  tensor([[3.2360],
+        [1.1543]], requires_grad=True)
+lamb after epoch 172: tensor([0.1184], requires_grad=True)
+w value:  tensor([[3.2557],
+        [1.1573]], requires_grad=True)
+lamb after epoch 173: tensor([0.1116], requires_grad=True)
+w value:  tensor([[3.2753],
+        [1.1602]], requires_grad=True)
+lamb after epoch 174: tensor([0.1050], requires_grad=True)
+w value:  tensor([[3.2947],
+        [1.1630]], requires_grad=True)
+lamb after epoch 175: tensor([0.0985], requires_grad=True)
+w value:  tensor([[3.3141],
+        [1.1658]], requires_grad=True)
+lamb after epoch 176: tensor([0.0921], requires_grad=True)
+w value:  tensor([[3.3333],
+        [1.1684]], requires_grad=True)
+lamb after epoch 177: tensor([0.0858], requires_grad=True)
+w value:  tensor([[3.3523],
+        [1.1710]], requires_grad=True)
+lamb after epoch 178: tensor([0.0797], requires_grad=True)
+w value:  tensor([[3.3712],
+        [1.1734]], requires_grad=True)
+lamb after epoch 179: tensor([0.0737], requires_grad=True)
+w value:  tensor([[3.3899],
+        [1.1757]], requires_grad=True)
+lamb after epoch 180: tensor([0.0678], requires_grad=True)
+w value:  tensor([[3.4085],
+        [1.1780]], requires_grad=True)
+lamb after epoch 181: tensor([0.0621], requires_grad=True)
+w value:  tensor([[3.4268],
+        [1.1801]], requires_grad=True)
+lamb after epoch 182: tensor([0.0565], requires_grad=True)
+w value:  tensor([[3.4450],
+        [1.1822]], requires_grad=True)
+lamb after epoch 183: tensor([0.0511], requires_grad=True)
+w value:  tensor([[3.4629],
+        [1.1842]], requires_grad=True)
+lamb after epoch 184: tensor([0.0457], requires_grad=True)
+w value:  tensor([[3.4805],
+        [1.1860]], requires_grad=True)
+lamb after epoch 185: tensor([0.0405], requires_grad=True)
+w value:  tensor([[3.4980],
+        [1.1878]], requires_grad=True)
+lamb after epoch 186: tensor([0.0355], requires_grad=True)
+w value:  tensor([[3.5152],
+        [1.1895]], requires_grad=True)
+lamb after epoch 187: tensor([0.0305], requires_grad=True)
+w value:  tensor([[3.5321],
+        [1.1911]], requires_grad=True)
+lamb after epoch 188: tensor([0.0257], requires_grad=True)
+w value:  tensor([[3.5488],
+        [1.1926]], requires_grad=True)
+lamb after epoch 189: tensor([0.0211], requires_grad=True)
+w value:  tensor([[3.5652],
+        [1.1940]], requires_grad=True)
+lamb after epoch 190: tensor([0.0165], requires_grad=True)
+w value:  tensor([[3.5813],
+        [1.1953]], requires_grad=True)
+lamb after epoch 191: tensor([0.0121], requires_grad=True)
+w value:  tensor([[3.5972],
+        [1.1966]], requires_grad=True)
+lamb after epoch 192: tensor([0.0078], requires_grad=True)
+w value:  tensor([[3.6127],
+        [1.1978]], requires_grad=True)
+lamb after epoch 193: tensor([0.0037], requires_grad=True)
+w value:  tensor([[3.6279],
+        [1.1989]], requires_grad=True)
+lamb after epoch 194: tensor([-0.0003], requires_grad=True)
+w value:  tensor([[3.6428],
+        [1.1999]], requires_grad=True)
+lamb after epoch 195: tensor([-0.0042], requires_grad=True)
+w value:  tensor([[3.6574],
+        [1.2008]], requires_grad=True)
+lamb after epoch 196: tensor([-0.0080], requires_grad=True)
+w value:  tensor([[3.6717],
+        [1.2017]], requires_grad=True)
+lamb after epoch 197: tensor([-0.0117], requires_grad=True)
+w value:  tensor([[3.6856],
+        [1.2025]], requires_grad=True)
+lamb after epoch 198: tensor([-0.0152], requires_grad=True)
+w value:  tensor([[3.6992],
+        [1.2032]], requires_grad=True)
+lamb after epoch 199: tensor([-0.0186], requires_grad=True)
+w value:  tensor([[3.7125],
+        [1.2039]], requires_grad=True)
+lamb after epoch 200: tensor([-0.0220], requires_grad=True)
+w value:  tensor([[3.7254],
+        [1.2045]], requires_grad=True)
+lamb after epoch 201: tensor([-0.0251], requires_grad=True)
+w value:  tensor([[3.7380],
+        [1.2051]], requires_grad=True)
+lamb after epoch 202: tensor([-0.0282], requires_grad=True)
+w value:  tensor([[3.7503],
+        [1.2056]], requires_grad=True)
+lamb after epoch 203: tensor([-0.0312], requires_grad=True)
+w value:  tensor([[3.7622],
+        [1.2061]], requires_grad=True)
+lamb after epoch 204: tensor([-0.0341], requires_grad=True)
+w value:  tensor([[3.7737],
+        [1.2065]], requires_grad=True)
+lamb after epoch 205: tensor([-0.0368], requires_grad=True)
+w value:  tensor([[3.7850],
+        [1.2069]], requires_grad=True)
+lamb after epoch 206: tensor([-0.0395], requires_grad=True)
+w value:  tensor([[3.7958],
+        [1.2072]], requires_grad=True)
+lamb after epoch 207: tensor([-0.0420], requires_grad=True)
+w value:  tensor([[3.8063],
+        [1.2075]], requires_grad=True)
+lamb after epoch 208: tensor([-0.0445], requires_grad=True)
+w value:  tensor([[3.8166],
+        [1.2077]], requires_grad=True)
+lamb after epoch 209: tensor([-0.0468], requires_grad=True)
+w value:  tensor([[3.8264],
+        [1.2079]], requires_grad=True)
+lamb after epoch 210: tensor([-0.0491], requires_grad=True)
+w value:  tensor([[3.8360],
+        [1.2081]], requires_grad=True)
+lamb after epoch 211: tensor([-0.0513], requires_grad=True)
+w value:  tensor([[3.8452],
+        [1.2083]], requires_grad=True)
+lamb after epoch 212: tensor([-0.0533], requires_grad=True)
+w value:  tensor([[3.8540],
+        [1.2084]], requires_grad=True)
+lamb after epoch 213: tensor([-0.0553], requires_grad=True)
+w value:  tensor([[3.8626],
+        [1.2085]], requires_grad=True)
+lamb after epoch 214: tensor([-0.0572], requires_grad=True)
+w value:  tensor([[3.8708],
+        [1.2086]], requires_grad=True)
+lamb after epoch 215: tensor([-0.0591], requires_grad=True)
+w value:  tensor([[3.8788],
+        [1.2086]], requires_grad=True)
+lamb after epoch 216: tensor([-0.0608], requires_grad=True)
+w value:  tensor([[3.8864],
+        [1.2087]], requires_grad=True)
+lamb after epoch 217: tensor([-0.0625], requires_grad=True)
+w value:  tensor([[3.8937],
+        [1.2087]], requires_grad=True)
+lamb after epoch 218: tensor([-0.0641], requires_grad=True)
+w value:  tensor([[3.9007],
+        [1.2087]], requires_grad=True)
+lamb after epoch 219: tensor([-0.0656], requires_grad=True)
+w value:  tensor([[3.9075],
+        [1.2087]], requires_grad=True)
+lamb after epoch 220: tensor([-0.0671], requires_grad=True)
+w value:  tensor([[3.9140],
+        [1.2087]], requires_grad=True)
+lamb after epoch 221: tensor([-0.0684], requires_grad=True)
+w value:  tensor([[3.9201],
+        [1.2087]], requires_grad=True)
+lamb after epoch 222: tensor([-0.0698], requires_grad=True)
+w value:  tensor([[3.9261],
+        [1.2086]], requires_grad=True)
+lamb after epoch 223: tensor([-0.0710], requires_grad=True)
+w value:  tensor([[3.9318],
+        [1.2086]], requires_grad=True)
+lamb after epoch 224: tensor([-0.0722], requires_grad=True)
+w value:  tensor([[3.9372],
+        [1.2085]], requires_grad=True)
+lamb after epoch 225: tensor([-0.0734], requires_grad=True)
+w value:  tensor([[3.9424],
+        [1.2085]], requires_grad=True)
+lamb after epoch 226: tensor([-0.0745], requires_grad=True)
+w value:  tensor([[3.9474],
+        [1.2084]], requires_grad=True)
+lamb after epoch 227: tensor([-0.0755], requires_grad=True)
+w value:  tensor([[3.9521],
+        [1.2084]], requires_grad=True)
+lamb after epoch 228: tensor([-0.0765], requires_grad=True)
+w value:  tensor([[3.9565],
+        [1.2083]], requires_grad=True)
+lamb after epoch 229: tensor([-0.0774], requires_grad=True)
+w value:  tensor([[3.9608],
+        [1.2082]], requires_grad=True)
+lamb after epoch 230: tensor([-0.0783], requires_grad=True)
+w value:  tensor([[3.9649],
+        [1.2082]], requires_grad=True)
+lamb after epoch 231: tensor([-0.0791], requires_grad=True)
+w value:  tensor([[3.9689],
+        [1.2081]], requires_grad=True)
+lamb after epoch 232: tensor([-0.0799], requires_grad=True)
+w value:  tensor([[3.9725],
+        [1.2080]], requires_grad=True)
+lamb after epoch 233: tensor([-0.0807], requires_grad=True)
+w value:  tensor([[3.9760],
+        [1.2079]], requires_grad=True)
+lamb after epoch 234: tensor([-0.0814], requires_grad=True)
+w value:  tensor([[3.9794],
+        [1.2079]], requires_grad=True)
+lamb after epoch 235: tensor([-0.0821], requires_grad=True)
+w value:  tensor([[3.9825],
+        [1.2078]], requires_grad=True)
+lamb after epoch 236: tensor([-0.0827], requires_grad=True)
+w value:  tensor([[3.9855],
+        [1.2077]], requires_grad=True)
+lamb after epoch 237: tensor([-0.0833], requires_grad=True)
+w value:  tensor([[3.9884],
+        [1.2077]], requires_grad=True)
+lamb after epoch 238: tensor([-0.0839], requires_grad=True)
+w value:  tensor([[3.9911],
+        [1.2076]], requires_grad=True)
+lamb after epoch 239: tensor([-0.0844], requires_grad=True)
+w value:  tensor([[3.9936],
+        [1.2076]], requires_grad=True)
+lamb after epoch 240: tensor([-0.0849], requires_grad=True)
+w value:  tensor([[3.9961],
+        [1.2075]], requires_grad=True)
+lamb after epoch 241: tensor([-0.0854], requires_grad=True)
+w value:  tensor([[3.9984],
+        [1.2074]], requires_grad=True)
+lamb after epoch 242: tensor([-0.0859], requires_grad=True)
+w value:  tensor([[4.0006],
+        [1.2073]], requires_grad=True)
+lamb after epoch 243: tensor([-0.0863], requires_grad=True)
+w value:  tensor([[4.0026],
+        [1.2073]], requires_grad=True)
+lamb after epoch 244: tensor([-0.0867], requires_grad=True)
+w value:  tensor([[4.0045],
+        [1.2072]], requires_grad=True)
+lamb after epoch 245: tensor([-0.0871], requires_grad=True)
+w value:  tensor([[4.0063],
+        [1.2072]], requires_grad=True)
+lamb after epoch 246: tensor([-0.0874], requires_grad=True)
+w value:  tensor([[4.0080],
+        [1.2071]], requires_grad=True)
+lamb after epoch 247: tensor([-0.0878], requires_grad=True)
+w value:  tensor([[4.0096],
+        [1.2071]], requires_grad=True)
+lamb after epoch 248: tensor([-0.0881], requires_grad=True)
+w value:  tensor([[4.0111],
+        [1.2071]], requires_grad=True)
+lamb after epoch 249: tensor([-0.0884], requires_grad=True)
+w value:  tensor([[4.0125],
+        [1.2070]], requires_grad=True)
+lamb after epoch 250: tensor([-0.0887], requires_grad=True)
+w value:  tensor([[4.0138],
+        [1.2070]], requires_grad=True)
+lamb after epoch 251: tensor([-0.0890], requires_grad=True)
+w value:  tensor([[4.0152],
+        [1.2069]], requires_grad=True)
+lamb after epoch 252: tensor([-0.0892], requires_grad=True)
+w value:  tensor([[4.0165],
+        [1.2069]], requires_grad=True)
+lamb after epoch 253: tensor([-0.0894], requires_grad=True)
+w value:  tensor([[4.0177],
+        [1.2068]], requires_grad=True)
+lamb after epoch 254: tensor([-0.0897], requires_grad=True)
+w value:  tensor([[4.0187],
+        [1.2068]], requires_grad=True)
+lamb after epoch 255: tensor([-0.0899], requires_grad=True)
+w value:  tensor([[4.0197],
+        [1.2068]], requires_grad=True)
+lamb after epoch 256: tensor([-0.0901], requires_grad=True)
+w value:  tensor([[4.0206],
+        [1.2067]], requires_grad=True)
+lamb after epoch 257: tensor([-0.0902], requires_grad=True)
+w value:  tensor([[4.0214],
+        [1.2067]], requires_grad=True)
+lamb after epoch 258: tensor([-0.0904], requires_grad=True)
+w value:  tensor([[4.0222],
+        [1.2067]], requires_grad=True)
+lamb after epoch 259: tensor([-0.0906], requires_grad=True)
+w value:  tensor([[4.0229],
+        [1.2067]], requires_grad=True)
+lamb after epoch 260: tensor([-0.0907], requires_grad=True)
+w value:  tensor([[4.0236],
+        [1.2067]], requires_grad=True)
+lamb after epoch 261: tensor([-0.0909], requires_grad=True)
+w value:  tensor([[4.0242],
+        [1.2067]], requires_grad=True)
+lamb after epoch 262: tensor([-0.0910], requires_grad=True)
+w value:  tensor([[4.0249],
+        [1.2067]], requires_grad=True)
+lamb after epoch 263: tensor([-0.0911], requires_grad=True)
+w value:  tensor([[4.0256],
+        [1.2066]], requires_grad=True)
+lamb after epoch 264: tensor([-0.0912], requires_grad=True)
+w value:  tensor([[4.0262],
+        [1.2066]], requires_grad=True)
+lamb after epoch 265: tensor([-0.0913], requires_grad=True)
+w value:  tensor([[4.0268],
+        [1.2065]], requires_grad=True)
+lamb after epoch 266: tensor([-0.0914], requires_grad=True)
+w value:  tensor([[4.0273],
+        [1.2065]], requires_grad=True)
+lamb after epoch 267: tensor([-0.0915], requires_grad=True)
+w value:  tensor([[4.0277],
+        [1.2065]], requires_grad=True)
+lamb after epoch 268: tensor([-0.0916], requires_grad=True)
+w value:  tensor([[4.0281],
+        [1.2065]], requires_grad=True)
+lamb after epoch 269: tensor([-0.0917], requires_grad=True)
+w value:  tensor([[4.0285],
+        [1.2065]], requires_grad=True)
+lamb after epoch 270: tensor([-0.0918], requires_grad=True)
+w value:  tensor([[4.0288],
+        [1.2065]], requires_grad=True)
+lamb after epoch 271: tensor([-0.0919], requires_grad=True)
+w value:  tensor([[4.0291],
+        [1.2065]], requires_grad=True)
+lamb after epoch 272: tensor([-0.0919], requires_grad=True)
+w value:  tensor([[4.0294],
+        [1.2066]], requires_grad=True)
+lamb after epoch 273: tensor([-0.0920], requires_grad=True)
+w value:  tensor([[4.0298],
+        [1.2065]], requires_grad=True)
+lamb after epoch 274: tensor([-0.0920], requires_grad=True)
+w value:  tensor([[4.0301],
+        [1.2065]], requires_grad=True)
+lamb after epoch 275: tensor([-0.0921], requires_grad=True)
+w value:  tensor([[4.0304],
+        [1.2065]], requires_grad=True)
+lamb after epoch 276: tensor([-0.0922], requires_grad=True)
+w value:  tensor([[4.0306],
+        [1.2065]], requires_grad=True)
+lamb after epoch 277: tensor([-0.0922], requires_grad=True)
+w value:  tensor([[4.0309],
+        [1.2064]], requires_grad=True)
+lamb after epoch 278: tensor([-0.0922], requires_grad=True)
+w value:  tensor([[4.0311],
+        [1.2064]], requires_grad=True)
+lamb after epoch 279: tensor([-0.0923], requires_grad=True)
+w value:  tensor([[4.0313],
+        [1.2064]], requires_grad=True)
+lamb after epoch 280: tensor([-0.0923], requires_grad=True)
+w value:  tensor([[4.0315],
+        [1.2064]], requires_grad=True)
+lamb after epoch 281: tensor([-0.0923], requires_grad=True)
+w value:  tensor([[4.0317],
+        [1.2064]], requires_grad=True)
+lamb after epoch 282: tensor([-0.0924], requires_grad=True)
+w value:  tensor([[4.0319],
+        [1.2064]], requires_grad=True)
+lamb after epoch 283: tensor([-0.0924], requires_grad=True)
+w value:  tensor([[4.0320],
+        [1.2064]], requires_grad=True)
+lamb after epoch 284: tensor([-0.0924], requires_grad=True)
+w value:  tensor([[4.0321],
+        [1.2064]], requires_grad=True)
+lamb after epoch 285: tensor([-0.0925], requires_grad=True)
+w value:  tensor([[4.0323],
+        [1.2063]], requires_grad=True)
+lamb after epoch 286: tensor([-0.0925], requires_grad=True)
+w value:  tensor([[4.0324],
+        [1.2063]], requires_grad=True)
+lamb after epoch 287: tensor([-0.0925], requires_grad=True)
+w value:  tensor([[4.0325],
+        [1.2063]], requires_grad=True)
+lamb after epoch 288: tensor([-0.0925], requires_grad=True)
+w value:  tensor([[4.0326],
+        [1.2063]], requires_grad=True)
+lamb after epoch 289: tensor([-0.0925], requires_grad=True)
+w value:  tensor([[4.0327],
+        [1.2063]], requires_grad=True)
+lamb after epoch 290: tensor([-0.0926], requires_grad=True)
+w value:  tensor([[4.0328],
+        [1.2063]], requires_grad=True)
+lamb after epoch 291: tensor([-0.0926], requires_grad=True)
+w value:  tensor([[4.0329],
+        [1.2063]], requires_grad=True)
+lamb after epoch 292: tensor([-0.0926], requires_grad=True)
+w value:  tensor([[4.0329],
+        [1.2063]], requires_grad=True)
+lamb after epoch 293: tensor([-0.0926], requires_grad=True)
+w value:  tensor([[4.0330],
+        [1.2063]], requires_grad=True)
+lamb after epoch 294: tensor([-0.0926], requires_grad=True)
+w value:  tensor([[4.0331],
+        [1.2063]], requires_grad=True)
+lamb after epoch 295: tensor([-0.0926], requires_grad=True)
+w value:  tensor([[4.0331],
+        [1.2063]], requires_grad=True)
+lamb after epoch 296: tensor([-0.0926], requires_grad=True)
+w value:  tensor([[4.0332],
+        [1.2063]], requires_grad=True)
+lamb after epoch 297: tensor([-0.0926], requires_grad=True)
+w value:  tensor([[4.0332],
+        [1.2063]], requires_grad=True)
+lamb after epoch 298: tensor([-0.0926], requires_grad=True)
+w value:  tensor([[4.0333],
+        [1.2063]], requires_grad=True)
+lamb after epoch 299: tensor([-0.0926], requires_grad=True)
+w value:  tensor([[4.0333],
+        [1.2063]], requires_grad=True)
+lamb after epoch 300: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0333],
+        [1.2063]], requires_grad=True)
+lamb after epoch 301: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0334],
+        [1.2063]], requires_grad=True)
+lamb after epoch 302: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0334],
+        [1.2063]], requires_grad=True)
+lamb after epoch 303: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0334],
+        [1.2063]], requires_grad=True)
+lamb after epoch 304: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0334],
+        [1.2063]], requires_grad=True)
+lamb after epoch 305: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0335],
+        [1.2063]], requires_grad=True)
+lamb after epoch 306: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0335],
+        [1.2063]], requires_grad=True)
+lamb after epoch 307: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0335],
+        [1.2063]], requires_grad=True)
+lamb after epoch 308: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0335],
+        [1.2063]], requires_grad=True)
+lamb after epoch 309: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0335],
+        [1.2063]], requires_grad=True)
+lamb after epoch 310: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0336],
+        [1.2063]], requires_grad=True)
+lamb after epoch 311: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0336],
+        [1.2063]], requires_grad=True)
+lamb after epoch 312: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0336],
+        [1.2063]], requires_grad=True)
+lamb after epoch 313: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0336],
+        [1.2063]], requires_grad=True)
+lamb after epoch 314: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0336],
+        [1.2063]], requires_grad=True)
+lamb after epoch 315: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0336],
+        [1.2063]], requires_grad=True)
+lamb after epoch 316: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0336],
+        [1.2063]], requires_grad=True)
+lamb after epoch 317: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0336],
+        [1.2063]], requires_grad=True)
+lamb after epoch 318: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0336],
+        [1.2063]], requires_grad=True)
+lamb after epoch 319: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0336],
+        [1.2063]], requires_grad=True)
+lamb after epoch 320: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0336],
+        [1.2063]], requires_grad=True)
+lamb after epoch 321: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0336],
+        [1.2063]], requires_grad=True)
+lamb after epoch 322: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 323: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 324: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 325: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 326: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 327: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 328: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 329: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 330: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 331: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 332: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 333: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 334: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 335: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 336: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 337: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 338: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 339: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 340: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 341: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 342: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 343: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 344: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 345: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 346: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 347: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 348: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 349: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 350: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 351: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 352: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 353: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 354: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 355: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 356: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 357: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 358: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 359: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 360: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 361: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 362: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 363: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 364: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 365: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 366: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 367: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 368: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 369: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 370: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 371: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 372: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 373: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 374: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 375: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 376: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 377: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 378: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 379: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 380: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 381: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 382: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 383: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 384: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 385: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 386: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 387: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 388: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 389: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 390: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 391: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 392: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 393: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 394: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 395: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 396: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 397: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 398: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 399: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 400: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 401: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 402: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 403: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 404: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 405: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 406: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 407: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 408: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 409: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 410: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 411: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 412: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 413: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 414: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 415: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 416: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 417: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 418: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 419: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 420: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 421: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 422: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 423: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 424: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 425: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 426: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 427: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 428: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 429: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 430: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 431: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 432: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 433: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 434: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 435: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 436: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 437: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 438: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 439: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 440: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 441: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 442: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 443: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 444: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 445: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 446: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 447: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 448: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 449: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 450: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 451: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 452: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 453: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 454: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 455: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 456: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 457: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 458: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 459: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 460: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 461: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 462: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 463: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 464: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 465: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 466: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 467: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 468: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 469: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 470: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 471: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 472: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 473: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 474: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 475: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 476: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 477: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 478: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 479: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 480: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 481: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 482: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 483: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 484: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 485: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 486: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 487: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 488: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 489: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 490: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 491: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 492: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 493: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 494: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 495: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 496: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 497: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 498: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 499: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 500: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 501: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 502: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 503: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 504: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 505: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 506: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 507: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 508: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 509: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 510: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 511: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 512: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 513: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 514: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 515: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 516: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 517: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 518: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 519: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 520: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 521: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 522: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 523: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 524: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 525: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 526: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 527: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 528: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 529: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 530: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 531: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 532: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 533: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 534: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 535: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 536: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 537: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 538: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 539: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 540: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 541: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 542: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 543: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 544: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 545: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 546: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 547: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 548: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 549: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 550: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 551: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 552: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 553: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 554: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 555: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 556: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 557: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 558: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 559: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 560: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 561: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 562: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 563: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 564: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 565: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 566: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 567: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 568: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 569: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 570: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 571: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 572: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 573: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 574: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 575: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 576: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 577: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 578: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 579: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 580: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 581: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 582: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 583: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 584: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 585: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 586: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 587: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 588: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 589: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 590: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 591: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 592: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 593: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 594: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 595: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 596: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 597: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 598: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 599: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 600: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 601: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 602: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 603: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 604: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 605: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 606: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 607: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 608: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 609: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 610: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 611: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 612: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 613: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 614: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 615: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 616: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 617: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 618: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 619: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 620: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 621: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 622: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 623: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 624: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 625: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 626: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 627: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 628: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 629: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 630: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 631: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 632: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 633: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 634: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 635: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 636: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 637: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 638: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 639: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 640: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 641: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 642: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 643: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 644: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 645: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 646: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 647: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 648: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 649: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 650: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 651: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 652: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 653: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 654: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 655: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 656: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 657: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 658: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 659: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 660: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 661: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 662: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 663: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 664: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 665: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 666: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 667: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 668: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 669: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 670: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 671: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 672: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 673: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 674: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 675: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 676: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 677: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 678: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 679: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 680: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 681: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 682: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 683: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 684: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 685: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 686: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 687: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 688: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 689: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 690: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 691: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 692: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 693: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 694: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 695: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 696: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 697: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 698: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 699: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 700: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 701: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 702: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 703: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 704: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 705: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 706: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 707: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 708: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 709: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 710: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 711: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 712: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 713: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 714: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 715: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 716: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 717: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 718: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 719: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 720: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 721: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 722: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 723: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 724: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 725: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 726: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 727: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 728: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 729: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 730: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 731: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 732: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 733: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 734: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 735: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 736: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 737: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 738: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 739: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 740: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 741: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 742: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 743: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 744: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 745: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 746: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 747: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 748: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 749: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 750: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 751: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 752: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 753: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 754: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 755: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 756: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 757: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 758: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 759: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 760: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 761: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 762: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 763: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 764: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 765: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 766: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 767: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 768: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 769: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 770: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 771: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 772: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 773: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 774: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 775: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 776: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 777: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 778: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 779: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 780: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 781: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 782: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 783: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 784: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 785: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 786: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 787: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 788: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 789: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 790: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 791: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 792: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 793: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 794: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 795: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 796: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 797: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 798: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 799: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 800: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 801: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 802: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 803: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 804: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 805: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 806: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 807: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 808: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 809: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 810: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 811: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 812: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 813: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 814: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 815: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 816: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 817: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 818: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 819: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 820: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 821: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 822: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 823: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 824: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 825: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 826: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 827: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 828: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 829: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 830: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 831: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 832: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 833: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 834: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 835: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 836: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 837: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 838: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 839: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 840: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 841: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 842: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 843: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 844: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 845: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 846: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 847: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 848: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 849: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 850: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 851: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 852: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 853: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 854: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 855: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 856: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 857: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 858: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 859: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 860: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 861: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 862: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 863: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 864: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 865: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 866: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 867: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 868: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 869: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 870: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 871: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 872: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 873: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 874: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 875: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 876: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 877: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 878: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 879: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 880: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 881: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 882: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 883: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 884: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 885: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 886: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 887: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 888: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 889: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 890: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 891: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 892: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 893: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 894: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 895: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 896: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 897: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 898: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 899: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 900: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 901: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 902: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 903: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 904: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 905: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 906: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 907: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 908: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 909: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 910: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 911: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 912: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 913: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 914: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 915: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 916: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 917: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 918: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 919: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 920: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 921: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 922: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 923: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 924: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 925: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 926: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 927: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 928: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 929: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 930: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 931: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 932: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 933: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 934: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 935: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 936: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 937: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 938: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 939: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 940: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 941: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 942: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 943: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 944: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 945: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 946: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 947: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 948: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 949: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 950: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 951: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 952: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 953: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 954: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 955: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 956: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 957: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 958: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 959: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 960: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 961: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 962: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 963: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 964: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 965: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 966: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 967: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 968: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 969: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 970: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 971: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 972: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 973: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 974: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 975: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 976: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 977: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 978: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 979: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 980: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 981: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 982: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 983: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 984: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 985: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 986: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 987: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 988: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 989: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 990: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 991: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 992: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 993: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 994: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 995: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 996: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 997: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 998: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 999: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 1000: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 1001: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 1002: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 1003: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 1004: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 1005: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 1006: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 1007: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 1008: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 1009: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 1010: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 1011: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 1012: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 1013: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 1014: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 1015: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 1016: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 1017: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 1018: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 1019: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 1020: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 1021: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 1022: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 1023: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 1024: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 1025: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 1026: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 1027: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 1028: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 1029: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 1030: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 1031: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 1032: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 1033: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 1034: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
+lamb after epoch 1035: tensor([-0.0927], requires_grad=True)
+w value:  tensor([[4.0337],
+        [1.2063]], requires_grad=True)
